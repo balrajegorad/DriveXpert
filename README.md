@@ -1,9 +1,4 @@
 # DriveXpert
-Here's a `README.md` for your **DriveXpert** project:
-
----
-
-# DriveXpert: AI-Powered Car Query Assistant
 
 DriveXpert is an AI-powered assistant that helps car owners answer their queries using the car owner's manual. The system uses advanced AI techniques, including embeddings, similarity search, and a local LLM (Large Language Model), to provide relevant answers based on a Tata Motors car manual.
 
@@ -127,6 +122,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Feel free to explore, modify, and contribute to the project! If you have any questions or suggestions, feel free to open an issue in the GitHub repository.
 
----
-
-This `README.md` provides a simple explanation of the **DriveXpert** project, how to install and use it, and details about the technologies used.
