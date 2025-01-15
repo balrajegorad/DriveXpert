@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 ## GitHub Repository
 
-You can find the code and detailed instructions in this [GitHub repository](https://github.com/username/repo_name).
+You can find the code and detailed instructions in this [GitHub repository]((https://github.com/balrajegorad/DriveXpert)).
 
 ---
 
