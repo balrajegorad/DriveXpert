@@ -1,0 +1,8 @@
+ollama
+qdrant-client
+numpy
+tqdm
+huggingface_hub
+sentence-transformers
+langchain-huggingface
+gradio
